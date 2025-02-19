@@ -77,7 +77,7 @@ st.markdown(
 # القسم الثاني: توزيع الفلل في الرياض
 st.markdown('<p class="subtitle">📊 وين الفرصة الحقيقية؟</p>', unsafe_allow_html=True)
 
-st.image("C:/Users/sulta/Desktop/DS/images/output.png", caption="")
+st.image("images/output.png", caption="")
 
 st.markdown(
     """
@@ -90,7 +90,7 @@ st.markdown('<hr class="divider-custom">', unsafe_allow_html=True)
 # القسم الثالث: متوسط أسعار المتر المربع
 st.markdown('<p class="subtitle">📊 كم وصل متوسط الأسعار؟</p>', unsafe_allow_html=True)
 
-st.image("C:/Users/sulta/Desktop/DS/images/output1.png", caption="")
+st.image("images/output1.png", caption="")
 
 st.markdown(
     """
@@ -105,7 +105,7 @@ st.markdown('<hr class="divider-custom">', unsafe_allow_html=True)
 # القسم الرابع: أرخص 10 أحياء في شمال الرياض
 st.markdown('<p class="subtitle">📊 أرخص 10 أحياء في شمال الرياض</p>', unsafe_allow_html=True)
 
-st.image("C:/Users/sulta/Desktop/DS/images/output2.png", caption="")
+st.image("images/output2.png", caption="")
 
 st.markdown(
     """
