@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas as pd
+
 
 # ضبط اتجاه النص ليكون من اليمين إلى اليسار وتحسين تجربة القراءة
 st.markdown(
